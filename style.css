@@ -1,0 +1,148 @@
+
+.one{
+    text-align: center;
+    background-color: #DDF6D2;
+    color: black;
+    padding: 10px;
+    line-height: 8px;
+}
+
+.two{
+    background-color: #ECFAE5;
+    color: black;
+    height: 520px;
+    width: 278px;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+.two-button{
+    background-color: #B0DB9C;
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+
+
+.three{
+    background-color:  #ECFAE5;
+    color: black;
+    height: 520px;
+    width: 278px;
+    border-radius: 5px;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+.three-button{
+    background-color: #B0DB9C;
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+
+
+
+.four{
+    background-color:  #ECFAE5;
+    color: black;
+    height: 520px;
+    width: 278px;
+    border-radius: 5px;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+.four-button{
+    background-color: #B0DB9C;
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+
+
+.five{
+    background-color: #ECFAE5;
+    color: black;
+    height: 520px;
+    width: 278px;
+    border-radius: 5px;
+    padding: 10px;
+    display:inline-block;
+    text-align: center;
+}
+
+.five-button{
+    background-color: #B0DB9C;
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+
+.container{
+    text-align: center;
+}
+
+.contact-form{
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color:#DDF6D2;
+    color: black;
+    place-items: center;
+}
+
+.contact-form__input,.contact-form__textarea,.contact-form__button{
+    margin-top: 5px;
+}
+
+.contact-form__input{
+    padding: 5px;
+    border: none;
+    border-bottom: solid white 1px;
+}
+
+.contact-form__textarea{
+    padding: 5px;
+    border: none;
+    border: solid white 0.5px;
+}
+
+.contact-form__button{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: yellow;
+    height: 30px;
+    width: 400px;
+    color: black;
+    border: none;
+    border-style: inset;
+
+}
+:hover.contact-form__button{
+    background-color: white;
+}
+
+.section-name{
+    background-color: white;
+    color: white;
+    text-align: center;
+}
+
+.button{
+    background-color: #B0DB9C;
+    color: white;
+    border: none;
+    height: 25px;
+    width: 400px;
+    margin-top: 10px;
+    cursor: pointer;
+}
