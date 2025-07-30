@@ -24,4 +24,4 @@ Showcasing a restaurant or cafe menu online
 Building a foundation for adding JavaScript or backend functionality later
 
 🚀 Live Preview
-(Add your GitHub Pages or live link here# Reestar-Food-Site)
+(https://mani-mc.github.io/Reestar-Food-Site/)
